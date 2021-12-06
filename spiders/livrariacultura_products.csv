@@ -1,139 +1,49 @@
-Titulo,Autor,Preco
-"
-O GATO VIRIATO: O ENCONTRO
-","Autor:MELLO, ROGER","R$ 43,90"
-"
-A ABOMINAÇÃO
-","Tradutor:TOMBINI, MARILENE|Autor:HOLT, JONATHAN","R$ 59,90"
-"
-TRISTE FIM DE POLICARPO QUARESMA
-","Autor:ASSIS, MACHADO DE","R$ 44,90"
-"
-INTIMIDADE
-","Autor:GOLDENBERG, MIRIAN","R$ 54,90"
-"
-SINFONIA DOS ANIMAIS
-","Autor:BROWN, DAN|Ilustrador:BATORI, SUSAN","R$ 49,90"
-"
-THE ENIGMA OF COMPOSTELA
-","Autor:BARROS, A.J","R$ 89,00"
-"
-SEDE DO MAL
-","Autor:VIDAL, GORE|Tradutor:SANTARRITA, MARCOS","R$ 49,90"
-"
-LUSTRUM (VOL.2 TRILOGIA DE CÍCERO)
-","Autor:HARRIS, ROBERT|Tradutor:DEMASSI, DOMINGOS","R$ 29,95"
-"
-SINDBÁ, O MARUJO
-","Adaptador:CONY, CARLOS HEITOR","R$ 44,90"
-"
-FEDRO
-","Autor:PLATÃO|Tradutor:CAMPOS, ROGÉRIO G. DE","R$ 69,00"
-"
-MEMORANDOM
-","Autor:MOTTE, ANDERS DE LA|Tradutor:LINDBLOOM, SONIA","R$ 32,45"
-"
-O HEREGE (VOL.3 A BUSCA DO GRAAL)
-","Autor:CORNWELL, BERNARD","R$ 34,95"
-"
-IMPERIUM (VOL. 1 TRILOGIA DE CÍCERO)
-","Autor:HARRIS, ROBERT|Tradutor:COSTA, ANDRE PEREIRA DA","R$ 79,90"
-"
-O ALBATROZ AZUL
-","Autor:RIBEIRO, JOAO UBALDO","R$ 39,90"
-"
-TERCEIRA HUMANIDADE (VOL. 1)
-","Autor:WEBER, BERNARD","R$ 79,90"
-"
-O QUE VOCÊ VAI SER QUANDO RENASCER?
-","Autor:TIMBO, REGINA","R$ 14,00"
-"
-O PORTAL
-","Autor:RUBY, LAURA|Tradutor:HELENA, LARISSA","R$ 27,45"
-"
-A ESTRADA DAS FLORES DE MIRAL
-","Autor:JEBREAL, RULA|Tradutor:COLASANTI, FABIANA","R$ 64,90"
-"
-A MISÉRIA DA POLÍTICA
-","Autor:CARDOSO, FERNANDO HENRIQUE","R$ 54,90"
-"
-OS DOZE MANDAMENTOS
-","Autor:SHELDON, SIDNEY","R$ 54,90"
-"
-O PORTAL
-","Autor:RUBY, LAURA|Tradutor:HELENA, LARISSA","R$ 54,90"
-"
-O REI CARECA
-","Autor:MACHADO, ANGELO","R$ 43,90"
-"
-PEREGRINO
-","Tradutor:AZEREDO, PATRÍCIA|Autor:SHRIVER, MARK K","R$ 22,45"
-"
-O GATO VIRIATO: O ENCONTRO
-","Autor:MELLO, ROGER","R$ 43,90"
-"
-A ABOMINAÇÃO
-","Tradutor:TOMBINI, MARILENE|Autor:HOLT, JONATHAN","R$ 59,90"
-"
-TRISTE FIM DE POLICARPO QUARESMA
-","Autor:ASSIS, MACHADO DE","R$ 44,90"
-"
-INTIMIDADE
-","Autor:GOLDENBERG, MIRIAN","R$ 54,90"
-"
-SINFONIA DOS ANIMAIS
-","Autor:BROWN, DAN|Ilustrador:BATORI, SUSAN","R$ 49,90"
-"
-THE ENIGMA OF COMPOSTELA
-","Autor:BARROS, A.J","R$ 89,00"
-"
-SEDE DO MAL
-","Autor:VIDAL, GORE|Tradutor:SANTARRITA, MARCOS","R$ 49,90"
-"
-LUSTRUM (VOL.2 TRILOGIA DE CÍCERO)
-","Autor:HARRIS, ROBERT|Tradutor:DEMASSI, DOMINGOS","R$ 29,95"
-"
-SINDBÁ, O MARUJO
-","Adaptador:CONY, CARLOS HEITOR","R$ 44,90"
-"
-FEDRO
-","Autor:PLATÃO|Tradutor:CAMPOS, ROGÉRIO G. DE","R$ 69,00"
-"
-MEMORANDOM
-","Autor:MOTTE, ANDERS DE LA|Tradutor:LINDBLOOM, SONIA","R$ 32,45"
-"
-O HEREGE (VOL.3 A BUSCA DO GRAAL)
-","Autor:CORNWELL, BERNARD","R$ 34,95"
-"
-IMPERIUM (VOL. 1 TRILOGIA DE CÍCERO)
-","Autor:HARRIS, ROBERT|Tradutor:COSTA, ANDRE PEREIRA DA","R$ 79,90"
-"
-O ALBATROZ AZUL
-","Autor:RIBEIRO, JOAO UBALDO","R$ 39,90"
-"
-TERCEIRA HUMANIDADE (VOL. 1)
-","Autor:WEBER, BERNARD","R$ 79,90"
-"
-O QUE VOCÊ VAI SER QUANDO RENASCER?
-","Autor:TIMBO, REGINA","R$ 14,00"
-"
-O PORTAL
-","Autor:RUBY, LAURA|Tradutor:HELENA, LARISSA","R$ 27,45"
-"
-A ESTRADA DAS FLORES DE MIRAL
-","Autor:JEBREAL, RULA|Tradutor:COLASANTI, FABIANA","R$ 64,90"
-"
-A MISÉRIA DA POLÍTICA
-","Autor:CARDOSO, FERNANDO HENRIQUE","R$ 54,90"
-"
-OS DOZE MANDAMENTOS
-","Autor:SHELDON, SIDNEY","R$ 54,90"
-"
-O PORTAL
-","Autor:RUBY, LAURA|Tradutor:HELENA, LARISSA","R$ 54,90"
-"
-O REI CARECA
-","Autor:MACHADO, ANGELO","R$ 43,90"
-"
-PEREGRINO
-","Tradutor:AZEREDO, PATRÍCIA|Autor:SHRIVER, MARK K","R$ 22,45"
+Titulo,Autor,ImgUrl,SiteUrl,Preco
+Sinfonia Dos Animais,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/60083790-300-300/2112268104.jpg?v=637694838215800000,https://www3.livrariacultura.com.br/sinfonia-dos-animais-2112268104/p,"R$ 49,90"
+As Musas,Alex Michaelides,https://livrariacultura.vteximg.com.br/arquivos/ids/72704424-300-300/2112296175.jpg?v=637743474700700000,https://www3.livrariacultura.com.br/as-musas-2112296175/p,"R$ 49,90"
+Mais Forte Que O Sol (irmãs Lyndon – Livro 2),Julia Quinn,https://livrariacultura.vteximg.com.br/arquivos/ids/60124048-300-300/2000084238.jpg?v=637694865076430000,https://www3.livrariacultura.com.br/mais-forte-que-o-sol-irmas-lyndon-livro-2-2000084238/p,"R$ 44,90"
+Origem,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/60132586-300-300/2112276003.jpg?v=637694870647830000,https://www3.livrariacultura.com.br/origem-2112276003/p,"R$ 36,90"
+O Símbolo Perdido,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/70570800-300-300/2112277361.jpg?v=637721675212530000,https://www3.livrariacultura.com.br/o-simbolo-perdido-2112277361/p,"R$ 39,90"
+O Código Da Vinci,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/60134386-300-300/2112285297.jpg?v=637694871745530000,https://www3.livrariacultura.com.br/o-codigo-da-vinci-2112285297/p,"R$ 39,90"
+Pelos Caminhos Da História,Vasco Mariz,https://livrariacultura.vteximg.com.br/arquivos/ids/53281874-300-300/15072968.jpg?v=637666205590670000,https://www3.livrariacultura.com.br/pelos-caminhos-da-historia-15072968/p,"R$ 59,90"
+Fedro,Platão,https://livrariacultura.vteximg.com.br/arquivos/ids/60123574-300-300/2000050575.jpg?v=637694864767430000,https://www3.livrariacultura.com.br/fedro-2000050575/p,"R$ 69,00"
+Terceira Humanidade (vol. 1),Bernard Weber,https://livrariacultura.vteximg.com.br/arquivos/ids/53320030-300-300/2112053023.jpg?v=637666236961730000,https://www3.livrariacultura.com.br/terceira-humanidade-vol-1-2112053023/p,"R$ 79,90"
+O Portal,Laura Ruby,https://livrariacultura.vteximg.com.br/arquivos/ids/38475947-300-300/710013054.jpg?v=637596327242000000,https://www3.livrariacultura.com.br/o-portal-710013054/p,"R$ 27,45"
+A Estrada Das Flores De Miral,Rula Jebreal,https://livrariacultura.vteximg.com.br/arquivos/ids/53293952-300-300/42138262.jpg?v=637666215508830000,https://www3.livrariacultura.com.br/a-estrada-das-flores-de-miral-42138262/p,"R$ 64,90"
+A Miséria Da Política,Fernando Henrique Cardoso,https://livrariacultura.vteximg.com.br/arquivos/ids/53301845-300-300/46062400.jpg?v=637666221851770000,https://www3.livrariacultura.com.br/a-miseria-da-politica-46062400/p,"R$ 54,90"
+O Portal,Laura Ruby,https://livrariacultura.vteximg.com.br/arquivos/ids/53310256-300-300/46578515.jpg?v=637666228653170000,https://www3.livrariacultura.com.br/o-portal-46578515/p,"R$ 54,90"
+O Fogo Invisível,Javier Sierra,https://livrariacultura.vteximg.com.br/arquivos/ids/70114786-300-300/2111765936.jpg?v=637716300601800000,https://www3.livrariacultura.com.br/o-fogo-invisivel-2111765936/p,"R$ 66,90"
+O Príncipe: Conselhos Aos Governantes Sobre As Novas Formas De Exercer E Manter O Poder Nos Dias De Hoje,Percy Kemp,https://livrariacultura.vteximg.com.br/arquivos/ids/53297333-300-300/42690775.jpg?v=637666218381870000,https://www3.livrariacultura.com.br/o-principe-conselhos-aos-governantes-sobre-as-novas-formas-de-exercer-e-manter-o-poder-nos-dias-de-hoje-42690775/p,"R$ 44,90"
+Jogos Perigosos,Danielle Steel,https://livrariacultura.vteximg.com.br/arquivos/ids/53327229-300-300/2112281663.jpg?v=637666243340600000,https://www3.livrariacultura.com.br/jogos-perigosos-2112281663/p,"R$ 39,90"
+Gendarme,Mark T. Mustian,https://livrariacultura.vteximg.com.br/arquivos/ids/53286170-300-300/22661919.jpg?v=637666209098970000,https://www3.livrariacultura.com.br/gendarme-22661919/p,"R$ 59,90"
+Um Carretel De Linha Azul,Anne Tyler,https://livrariacultura.vteximg.com.br/arquivos/ids/70112373-300-300/46334385.jpg?v=637716299125930000,https://www3.livrariacultura.com.br/um-carretel-de-linha-azul-46334385/p,"R$ 47,90"
+A Canção Da Espada (vol. 4 Crônicas Saxônicas),Bernard Cornwell,https://livrariacultura.vteximg.com.br/arquivos/ids/53271229-300-300/2529317.jpg?v=637666196795100000,https://www3.livrariacultura.com.br/a-cancao-da-espada-vol-4-cronicas-saxonicas-2529317/p,"R$ 64,90"
+Deixe A Peteca Cair,Tiffany Dufu,https://livrariacultura.vteximg.com.br/arquivos/ids/60125607-300-300/2000217394.jpg?v=637694866100400000,https://www3.livrariacultura.com.br/deixe-a-peteca-cair-2000217394/p,"R$ 34,00"
+Deception Point,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/72702320-300-300/5047617.jpg?v=637743237671300000,https://www3.livrariacultura.com.br/deception-point-5047617/p,"R$ 38,06"
+Memorandom,Anders De La Motte,https://livrariacultura.vteximg.com.br/arquivos/ids/53303909-300-300/46284318.jpg?v=637666223379200000,https://www3.livrariacultura.com.br/memorandom-46284318/p,"R$ 64,90"
+Peregrino,Mark K Shriver,https://livrariacultura.vteximg.com.br/arquivos/ids/38438031-300-300/710013039.jpg?v=637596225972770000,https://www3.livrariacultura.com.br/peregrino-710013039/p,"R$ 22,45"
+Lustrum (vol.2 Trilogia De Cícero),Robert Harris,https://livrariacultura.vteximg.com.br/arquivos/ids/70445401-300-300/720004089.jpg?v=637720796550070000,https://www3.livrariacultura.com.br/lustrum-vol2-trilogia-de-cicero-720004089/p,"R$ 29,95"
+Sinfonia Dos Animais,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/60083790-300-300/2112268104.jpg?v=637694838215800000,https://www3.livrariacultura.com.br/sinfonia-dos-animais-2112268104/p,"R$ 49,90"
+As Musas,Alex Michaelides,https://livrariacultura.vteximg.com.br/arquivos/ids/72704424-300-300/2112296175.jpg?v=637743474700700000,https://www3.livrariacultura.com.br/as-musas-2112296175/p,"R$ 49,90"
+Mais Forte Que O Sol (irmãs Lyndon – Livro 2),Julia Quinn,https://livrariacultura.vteximg.com.br/arquivos/ids/60124048-300-300/2000084238.jpg?v=637694865076430000,https://www3.livrariacultura.com.br/mais-forte-que-o-sol-irmas-lyndon-livro-2-2000084238/p,"R$ 44,90"
+Origem,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/60132586-300-300/2112276003.jpg?v=637694870647830000,https://www3.livrariacultura.com.br/origem-2112276003/p,"R$ 36,90"
+O Símbolo Perdido,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/70570800-300-300/2112277361.jpg?v=637721675212530000,https://www3.livrariacultura.com.br/o-simbolo-perdido-2112277361/p,"R$ 39,90"
+O Código Da Vinci,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/60134386-300-300/2112285297.jpg?v=637694871745530000,https://www3.livrariacultura.com.br/o-codigo-da-vinci-2112285297/p,"R$ 39,90"
+Pelos Caminhos Da História,Vasco Mariz,https://livrariacultura.vteximg.com.br/arquivos/ids/53281874-300-300/15072968.jpg?v=637666205590670000,https://www3.livrariacultura.com.br/pelos-caminhos-da-historia-15072968/p,"R$ 59,90"
+Fedro,Platão,https://livrariacultura.vteximg.com.br/arquivos/ids/60123574-300-300/2000050575.jpg?v=637694864767430000,https://www3.livrariacultura.com.br/fedro-2000050575/p,"R$ 69,00"
+Terceira Humanidade (vol. 1),Bernard Weber,https://livrariacultura.vteximg.com.br/arquivos/ids/53320030-300-300/2112053023.jpg?v=637666236961730000,https://www3.livrariacultura.com.br/terceira-humanidade-vol-1-2112053023/p,"R$ 79,90"
+O Portal,Laura Ruby,https://livrariacultura.vteximg.com.br/arquivos/ids/38475947-300-300/710013054.jpg?v=637596327242000000,https://www3.livrariacultura.com.br/o-portal-710013054/p,"R$ 27,45"
+A Estrada Das Flores De Miral,Rula Jebreal,https://livrariacultura.vteximg.com.br/arquivos/ids/53293952-300-300/42138262.jpg?v=637666215508830000,https://www3.livrariacultura.com.br/a-estrada-das-flores-de-miral-42138262/p,"R$ 64,90"
+A Miséria Da Política,Fernando Henrique Cardoso,https://livrariacultura.vteximg.com.br/arquivos/ids/53301845-300-300/46062400.jpg?v=637666221851770000,https://www3.livrariacultura.com.br/a-miseria-da-politica-46062400/p,"R$ 54,90"
+O Portal,Laura Ruby,https://livrariacultura.vteximg.com.br/arquivos/ids/53310256-300-300/46578515.jpg?v=637666228653170000,https://www3.livrariacultura.com.br/o-portal-46578515/p,"R$ 54,90"
+O Fogo Invisível,Javier Sierra,https://livrariacultura.vteximg.com.br/arquivos/ids/70114786-300-300/2111765936.jpg?v=637716300601800000,https://www3.livrariacultura.com.br/o-fogo-invisivel-2111765936/p,"R$ 66,90"
+O Príncipe: Conselhos Aos Governantes Sobre As Novas Formas De Exercer E Manter O Poder Nos Dias De Hoje,Percy Kemp,https://livrariacultura.vteximg.com.br/arquivos/ids/53297333-300-300/42690775.jpg?v=637666218381870000,https://www3.livrariacultura.com.br/o-principe-conselhos-aos-governantes-sobre-as-novas-formas-de-exercer-e-manter-o-poder-nos-dias-de-hoje-42690775/p,"R$ 44,90"
+Jogos Perigosos,Danielle Steel,https://livrariacultura.vteximg.com.br/arquivos/ids/53327229-300-300/2112281663.jpg?v=637666243340600000,https://www3.livrariacultura.com.br/jogos-perigosos-2112281663/p,"R$ 39,90"
+Gendarme,Mark T. Mustian,https://livrariacultura.vteximg.com.br/arquivos/ids/53286170-300-300/22661919.jpg?v=637666209098970000,https://www3.livrariacultura.com.br/gendarme-22661919/p,"R$ 59,90"
+Um Carretel De Linha Azul,Anne Tyler,https://livrariacultura.vteximg.com.br/arquivos/ids/70112373-300-300/46334385.jpg?v=637716299125930000,https://www3.livrariacultura.com.br/um-carretel-de-linha-azul-46334385/p,"R$ 47,90"
+A Canção Da Espada (vol. 4 Crônicas Saxônicas),Bernard Cornwell,https://livrariacultura.vteximg.com.br/arquivos/ids/53271229-300-300/2529317.jpg?v=637666196795100000,https://www3.livrariacultura.com.br/a-cancao-da-espada-vol-4-cronicas-saxonicas-2529317/p,"R$ 64,90"
+Deixe A Peteca Cair,Tiffany Dufu,https://livrariacultura.vteximg.com.br/arquivos/ids/60125607-300-300/2000217394.jpg?v=637694866100400000,https://www3.livrariacultura.com.br/deixe-a-peteca-cair-2000217394/p,"R$ 34,00"
+Deception Point,Dan Brown,https://livrariacultura.vteximg.com.br/arquivos/ids/72702320-300-300/5047617.jpg?v=637743237671300000,https://www3.livrariacultura.com.br/deception-point-5047617/p,"R$ 38,06"
+Memorandom,Anders De La Motte,https://livrariacultura.vteximg.com.br/arquivos/ids/53303909-300-300/46284318.jpg?v=637666223379200000,https://www3.livrariacultura.com.br/memorandom-46284318/p,"R$ 64,90"
+Peregrino,Mark K Shriver,https://livrariacultura.vteximg.com.br/arquivos/ids/38438031-300-300/710013039.jpg?v=637596225972770000,https://www3.livrariacultura.com.br/peregrino-710013039/p,"R$ 22,45"
+Lustrum (vol.2 Trilogia De Cícero),Robert Harris,https://livrariacultura.vteximg.com.br/arquivos/ids/70445401-300-300/720004089.jpg?v=637720796550070000,https://www3.livrariacultura.com.br/lustrum-vol2-trilogia-de-cicero-720004089/p,"R$ 29,95"

@@ -1,226 +1,45 @@
-Titulo,Autor,Preco
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Baseado no Livro de Dan Brown
-    ","R$ 4,00"
-"
-      Desvendando o Inferno
-    ","
-      Dan Brown
-    ","R$ 9,90"
-"
-      Ponto de Impacto P
-    ","
-      Dan Brown
-    ","R$ 10,00"
-"
-      O Código da Vinci P
-    ","
-      Dan Brown
-    ","R$ 12,00"
-"
-      O Código da Vinci P
-    ","
-      Dan Brown
-    ","R$ 13,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      DESVENDANDO INFERNO - O GUIA ESSENCIAL P...
-    ","
-      MICHAEL HAAG
-    ","R$ 15,00"
-"
-      Inferno ( Letra Grande)
-    ","
-      Dan Brown
-    ","R$ 15,00"
-"
-      Homem por trás de o código da vinci, uma...
-    ","
-      Lisa Rogak
-    ","R$ 15,00"
-"
-      The los Symbol
-    ","
-      Dan Brown
-    ","R$ 16,00"
-"
-      Inferno   - Nao e Pocket
-    ","
-      Dan Brown
-    ","R$ 19,35"
-"
-      A Filosofia de o Símbolo Perdido - Guia ...
-    ","
-      Thomas R. Beyer
-    ","R$ 20,00"
-"
-      Os Segredos de o Símbolo Perdido /// Dan...
-    ","
-      Dan Burstein e Arne de Keijzer
-    ","R$ 20,00"
-"
-      Caderno de Viagens do Codigo da Vinci
-    ","
-      Dan Brawn
-    ","R$ 20,00"
-"
-      O Codigo da Vinci
-    ","
-      Dan Brown 229
-    ","R$ 21,90"
-"
-      Inferno: o Maior Desafio de Robert Langd...
-    ","
-      Dan Brown
-    ","R$ 23,00"
-"
-      Fortaleza Digital (não é Pocket)
-    ","
-      Dan Brown
-    ","R$ 24,00"
-"
-      Fortaleza Digital  - Nao e Pocket
-    ","
-      Dan Brown
-    ","R$ 24,19"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      Inferno: o Maior Desafio de Robert Langd...
-    ","
-      Dan Brown
-    ","R$ 25,99"
-"
-      Inferno F. Simples
-    ","
-      Dan Brown
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Ponto de Impacto
-    ","
-      Dan Brown 690
-    ","R$ 29,90"
-"
-      Anjos e Demônios - Capa do Filme
-    ","
-      Dan Brown; Maria Luiza Newland...
-    ","R$ 35,00"
-"
-      Origem (novo)
-    ","
-      Dan Brown
-    ","R$ 35,00"
-"
-      ORIGEM DAN BROWN
-    ","
-      VÁRIOS AUTORES
-    ","R$ 35,06"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
+Titulo,Autor,ImgUrl,SiteUrl,Preco
+O código Da Vinci,Dan Brown,https://m.media-amazon.com/images/I/710DjekSUkL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&adId=A095788937Y1WBJ3877BJ&url=%2Fc%25C3%25B3digo-Vinci-Dan-Brown%2Fdp%2F6555651040%2Fref%3Dsr_1_1_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_1%26keywords%3Ddan%2Bbrown%26qid%3D1638805660%26s%3Dbooks%26sr%3D1-1-spons%26psc%3D1&qualifier=1638805660&id=2199526627316917&widgetName=sp_atf,"R$ 19,95"
+O terceiro gêmeo,Ken Follett,https://m.media-amazon.com/images/I/81HGFYD5iRL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_stripbooks_sr_pg1_1?ie=UTF8&adId=A09566852JFRDYO3IA6UI&url=%2Fterceiro-g%25C3%25AAmeo-Ken-Follett%2Fdp%2F6555652063%2Fref%3Dsr_1_2_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_1%26keywords%3Ddan%2Bbrown%26qid%3D1638805660%26s%3Dbooks%26sr%3D1-2-spons%26psc%3D1&qualifier=1638805660&id=2199526627316917&widgetName=sp_atf,"R$ 36,60"
+Origem (Robert Langdon),Dan Brown,https://m.media-amazon.com/images/I/81Y3DwapTVL._AC_UY218_.jpg,www.amazon.com.br/Origem-Dan-Brown/dp/858041766X/ref=sr_1_3?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-3,"R$ 43,90"
+O símbolo perdido,Dan Brown,https://m.media-amazon.com/images/I/91yUh4+m2gL._AC_UY218_.jpg,www.amazon.com.br/s%C3%ADmbolo-perdido-Dan-Brown/dp/6555650699/ref=sr_1_4?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-4&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9,"R$ 19,90"
+Ponto de Impacto,Dan Brown,https://m.media-amazon.com/images/I/716SIRfELkS._AC_UY218_.jpg,www.amazon.com.br/Ponto-Impacto-Dan-Brown/dp/8599296019/ref=sr_1_5?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-5,"R$ 36,10"
+Anjos e demônios (Robert Langdon),Dan Brown,https://m.media-amazon.com/images/I/91mqo8pialL._AC_UY218_.jpg,www.amazon.com.br/Anjos-dem%C3%B4nios-Dan-Brown/dp/8575421468/ref=sr_1_6?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-6&ufe=app_do%3Aamzn1.fos.25548f35-0de7-44b3-b28e-0f56f3f96147,"R$ 35,91"
+Sinfonia dos animais,Dan Brown,https://m.media-amazon.com/images/I/91opv6ZanwS._AC_UY218_.jpg,www.amazon.com.br/Sinfonia-dos-animais-Dan-Brown/dp/6555650109/ref=sr_1_7?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-7,"R$ 29,00"
+O código Da Vinci,Dan Brown,https://m.media-amazon.com/images/I/710DjekSUkL._AC_UY218_.jpg,www.amazon.com.br/c%C3%B3digo-Vinci-Dan-Brown/dp/6555651040/ref=sr_1_8?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-8,"R$ 19,95"
+Inferno (Robert Langdon),Dan Brown,https://m.media-amazon.com/images/I/71NoHFvBj-L._AC_UY218_.jpg,www.amazon.com.br/Inferno-Dan-Brown/dp/8580416299/ref=sr_1_9?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-9,"R$ 50,00"
+Inferno: Featuring Robert Langdon: 4,Dan Brown,https://m.media-amazon.com/images/I/A1yLZ8yNC2L._AC_UY218_.jpg,www.amazon.com.br/Inferno-Dan-Brown/dp/0385537859/ref=sr_1_10?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-10&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9,"R$ 74,99"
+Não fale com estranhos: Livro que está na Netflix,Harlan Coben,https://m.media-amazon.com/images/I/910k7aIby1L._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_stripbooks_sr_pg1_1?ie=UTF8&adId=A0956349UZBRR8X0QP9P&url=%2FN%25C3%25A3o-fale-estranhos-Harlan-Coben%2Fdp%2F8580415713%2Fref%3Dsr_1_11_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_1%26keywords%3Ddan%2Bbrown%26qid%3D1638805660%26s%3Dbooks%26sr%3D1-11-spons%26psc%3D1&qualifier=1638805660&id=2199526627316917&widgetName=sp_mtf,"R$ 17,90"
+Desaparecido para sempre: Livro que está na Netflix,Harlan Coben,https://m.media-amazon.com/images/I/71cTjvZ35ZL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_stripbooks_sr_pg1_1?ie=UTF8&adId=A09561613LPM13UPL684Z&url=%2FDesaparecido-para-sempre-Harlan-Coben%2Fdp%2F8530600479%2Fref%3Dsr_1_12_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_1%26keywords%3Ddan%2Bbrown%26qid%3D1638805660%26s%3Dbooks%26sr%3D1-12-spons%26psc%3D1&qualifier=1638805660&id=2199526627316917&widgetName=sp_mtf,"R$ 19,90"
+BOX VINGADORES TODOS QUEREM DOMINAR O MUNDO,Dan Abnett; Alisa Kwitney,https://m.media-amazon.com/images/I/61zrbyAF4HL._AC_UY218_.jpg,www.amazon.com.br/VINGADORES-TODOS-QUEREM-DOMINAR-MUNDO/dp/8542810260/ref=sr_1_13?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-13,"R$ 34,99"
+A Ordem,Daniel Silva,https://m.media-amazon.com/images/I/910zpa+QoeL._AC_UY218_.jpg,www.amazon.com.br/Ordem-Daniel-Silva/dp/6555111070/ref=sr_1_14?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-14,"R$ 28,30"
+O terceiro gêmeo,Ken Follett,https://m.media-amazon.com/images/I/81HGFYD5iRL._AC_UY218_.jpg,www.amazon.com.br/terceiro-g%C3%AAmeo-Ken-Follett/dp/6555652063/ref=sr_1_15?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-15,"R$ 36,60"
+Pra você que teve um dia ruim,Victor Fernandes,https://m.media-amazon.com/images/I/81qyydZ7nXL._AC_UY218_.jpg,www.amazon.com.br/Pra-voc%C3%AA-que-teve-ruim/dp/8542215273/ref=sr_1_16?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-16,"R$ 20,00"
+"Mulheres, Mitos e Deusas: O feminino através dos tempos",Martha Robles,https://m.media-amazon.com/images/I/71eeJ8Gtm-L._AC_UY218_.jpg,www.amazon.com.br/Mulheres-Mitos-Deusas-feminino-atrav%C3%A9s/dp/8576574543/ref=sr_1_17?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-17&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9,"R$ 38,99"
+Templários: Ascensão e queda dos guerreiros sagrados de Deus,Dan Jones,https://m.media-amazon.com/images/I/81gqXcz1hZL._AC_UY218_.jpg,www.amazon.com.br/Templ%C3%A1rios-Ascens%C3%A3o-queda-guerreiros-sagrados/dp/6555354577/ref=sr_1_18?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-18,"R$ 55,90"
+1984,George Orwell,https://m.media-amazon.com/images/I/61t0bwt1s3L._AC_UY218_.jpg,www.amazon.com.br/1984-George-Orwell/dp/6555522267/ref=sr_1_19?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-19,"R$ 13,90"
+Mitologia Nórdica,Neil Gaiman,https://m.media-amazon.com/images/I/71+hTjyR3eS._AC_UY218_.jpg,www.amazon.com.br/Mitologia-N%C3%B3rdica-Neil-Gaiman/dp/8551001280/ref=sr_1_20?__mk_pt_BR=%3Fref%3Dsr_pg_1&keywords=dan+brown&qid=1638805660&s=books&sr=1-20,"R$ 27,90"
+Eu devia estar sonhando,Michel Bussi,https://m.media-amazon.com/images/I/81LJEBz7-MS._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_stripbooks_sr_pg1_1?ie=UTF8&adId=A0989845HN3BIPRQ1G4L&url=%2Fdevia-estar-sonhando-Michel-Bussi%2Fdp%2F6555651466%2Fref%3Dsr_1_21_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_1%26keywords%3Ddan%2Bbrown%26qid%3D1638805660%26s%3Dbooks%26sr%3D1-21-spons%26psc%3D1&qualifier=1638805660&id=2199526627316917&widgetName=sp_btf,"R$ 37,40"
+Cartada final,John Grisham,https://m.media-amazon.com/images/I/A1HgPExZMHL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_stripbooks_sr_pg1_1?ie=UTF8&adId=A095813318QJ6VYDA9Y8Y&url=%2FCartada-final-John-Grisham%2Fdp%2F6555650478%2Fref%3Dsr_1_22_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_1%26keywords%3Ddan%2Bbrown%26qid%3D1638805660%26s%3Dbooks%26sr%3D1-22-spons%26psc%3D1&qualifier=1638805660&id=2199526627316917&widgetName=sp_btf,"R$ 24,90"
+Cartada final,John Grisham,https://m.media-amazon.com/images/I/A1HgPExZMHL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_stripbooks_sr_pg2_1?ie=UTF8&adId=A095813318QJ6VYDA9Y8Y&url=%2FCartada-final-John-Grisham%2Fdp%2F6555650478%2Fref%3Dsr_1_17_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_2%26keywords%3Ddan%2Bbrown%26qid%3D1638805661%26s%3Dbooks%26sr%3D1-17-spons%26psc%3D1&qualifier=1638805661&id=5700921124566938&widgetName=sp_atf_next,"R$ 24,90"
+Não conte a ninguém,Harlan Coben,https://m.media-amazon.com/images/I/81GebSCPsJL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_atf_next_stripbooks_sr_pg2_1?ie=UTF8&adId=A09562613OS8BEHJMNNNR&url=%2FN%25C3%25A3o-conte-ningu%25C3%25A9m-Harlan-Coben%2Fdp%2F6555651202%2Fref%3Dsr_1_18_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_2%26keywords%3Ddan%2Bbrown%26qid%3D1638805661%26s%3Dbooks%26sr%3D1-18-spons%26psc%3D1&qualifier=1638805661&id=5700921124566938&widgetName=sp_atf_next,"R$ 15,81"
+Fortaleza digital,Dan Brown,https://m.media-amazon.com/images/I/813u-TWUsBL._AC_UY218_.jpg,www.amazon.com.br/Fortaleza-digital-Dan-Brown-ebook/dp/B00Y14YVBK/ref=sr_1_19?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-19,"R$ 26,91"
+O poder do hábito,Charles Duhigg,https://m.media-amazon.com/images/I/81XTXQEVPlL._AC_UY218_.jpg,www.amazon.com.br/poder-do-h%C3%A1bito-Charles-Duhigg/dp/8539004119/ref=sr_1_20?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-20,"R$ 36,90"
+A divina comédia,Dante Alighieri,https://m.media-amazon.com/images/I/515np6FFXmL._AC_UY218_.jpg,www.amazon.com.br/divina-com%C3%A9dia-Dante-Alighieri/dp/B086W7RC5X/ref=sr_1_21?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-21,"R$ 41,40"
+Desbloqueie o poder da sua mente: Programe o seu subconsciente para se libertar das dores e inseguranças e transforme sua vida,Michael Arruda,https://m.media-amazon.com/images/I/91zFLdx3DyL._AC_UY218_.jpg,www.amazon.com.br/Desbloqueie-poder-sua-mente-subconsciente/dp/8545202539/ref=sr_1_22?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-22,"R$ 19,86"
+Origin: A Novel: 5,Dan Brown,https://m.media-amazon.com/images/I/91uvivS6LHL._AC_UY218_.jpg,www.amazon.com.br/Origin-Novel-Dan-Brown/dp/0525563709/ref=sr_1_23?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-23&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9,"R$ 48,83"
+Meditações: Edição com postais + marcador,Marco Aurélio,https://m.media-amazon.com/images/I/612B0id4gNL._AC_UY218_.jpg,www.amazon.com.br/Medita%C3%A7%C3%B5es-Marco-Aur%C3%A9lio/dp/8552100916/ref=sr_1_24?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-24,"R$ 19,78"
+Deception Point,Dan Brown,https://m.media-amazon.com/images/I/81OhVH4FE-L._AC_UY218_.jpg,www.amazon.com.br/Deception-Point-Dan-Brown/dp/0743497465/ref=sr_1_25?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-25&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9,"R$ 88,49"
+Quebrando o hábito de ser você mesmo: Como reconstruir sua mente e criar um novo eu,Celso Paschoa,https://m.media-amazon.com/images/I/61me0V6JIKL._AC_UY218_.jpg,www.amazon.com.br/Quebrando-H%C3%A1bito-Ser-Voc%C3%AA-Mesmo/dp/8568014321/ref=sr_1_26?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-26,"R$ 23,39"
+Não fale com estranhos: Livro que está na Netflix,Harlan Coben,https://m.media-amazon.com/images/I/910k7aIby1L._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_stripbooks_sr_pg2_1?ie=UTF8&adId=A0956349UZBRR8X0QP9P&url=%2FN%25C3%25A3o-fale-estranhos-Harlan-Coben%2Fdp%2F8580415713%2Fref%3Dsr_1_27_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_2%26keywords%3Ddan%2Bbrown%26qid%3D1638805661%26s%3Dbooks%26sr%3D1-27-spons%26psc%3D1&qualifier=1638805661&id=5700921124566938&widgetName=sp_mtf,"R$ 17,90"
+Desaparecido para sempre: Livro que está na Netflix,Harlan Coben,https://m.media-amazon.com/images/I/71cTjvZ35ZL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_mtf_stripbooks_sr_pg2_1?ie=UTF8&adId=A09561613LPM13UPL684Z&url=%2FDesaparecido-para-sempre-Harlan-Coben%2Fdp%2F8530600479%2Fref%3Dsr_1_28_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_2%26keywords%3Ddan%2Bbrown%26qid%3D1638805661%26s%3Dbooks%26sr%3D1-28-spons%26psc%3D1&qualifier=1638805661&id=5700921124566938&widgetName=sp_mtf,"R$ 19,90"
+Homo Deus,Yuval Noah Harari,https://m.media-amazon.com/images/I/81ql3Ty2O2L._AC_UY218_.jpg,www.amazon.com.br/Homo-deus-Yuval-Noah-Harari/dp/8535928197/ref=sr_1_29?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-29,"R$ 47,50"
+The Da Vinci Code: 2,Dan Brown,https://m.media-amazon.com/images/I/91Q5dCjc2KL._AC_UY218_.jpg,www.amazon.com.br/Vinci-Code-Dan-Brown/dp/0307474275/ref=sr_1_30?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-30&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d,"R$ 49,25"
+Mulher Maravilha - 50: Estado Futuro 2 de 2,Becky Cloonan,https://m.media-amazon.com/images/I/51yrjYVVzvL._AC_UY218_.jpg,www.amazon.com.br/Mulher-Maravilha-50-Estado-Futuro/dp/6559605965/ref=sr_1_31?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-31,"R$ 20,90"
+O menino do bosque,Harlan Coben,https://m.media-amazon.com/images/I/71gQBt1zUJL._AC_UY218_.jpg,www.amazon.com.br/menino-do-bosque-Harlan-Coben/dp/6555650966/ref=sr_1_32?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-32,"R$ 23,71"
+Mindhunter... O Primeiro Caçador de Serial Killers Americano,John Douglas,https://m.media-amazon.com/images/I/51mq86rF7GS._AC_UY218_.jpg,www.amazon.com.br/Mindhunter-Primeiro-Ca%C3%A7ador-Killers-Americano/dp/8551001736/ref=sr_1_33?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-33,"R$ 26,66"
+Desaparecido para sempre: Livro que está na Netflix,Harlan Coben,https://m.media-amazon.com/images/I/71cTjvZ35ZL._AC_UY218_.jpg,www.amazon.com.br/Desaparecido-para-sempre-Harlan-Coben/dp/8530600479/ref=sr_1_34?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-34,"R$ 19,90"
+O livro da psicologia (reduzido),Vários,https://m.media-amazon.com/images/I/81RdI1Qn7HL._AC_UY218_.jpg,www.amazon.com.br/Livro-Psicologia-V%C3%A1rios-Autores/dp/8525062499/ref=sr_1_35?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-35,"R$ 36,43"
+O crepúsculo e a aurora,Ken Follett,https://m.media-amazon.com/images/I/81JiywIC8LL._AC_UY218_.jpg,www.amazon.com.br/crep%C3%BAsculo-aurora-Ken-Follett/dp/6555650184/ref=sr_1_36?__mk_pt_BR=%3Fref%3Dsr_pg_2&keywords=dan+brown&qid=1638805661&s=books&sr=1-36,"R$ 39,90"
+Eu devia estar sonhando,Michel Bussi,https://m.media-amazon.com/images/I/81LJEBz7-MS._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_stripbooks_sr_pg2_1?ie=UTF8&adId=A0989845HN3BIPRQ1G4L&url=%2Fdevia-estar-sonhando-Michel-Bussi%2Fdp%2F6555651466%2Fref%3Dsr_1_37_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_2%26keywords%3Ddan%2Bbrown%26qid%3D1638805661%26s%3Dbooks%26sr%3D1-37-spons%26psc%3D1&qualifier=1638805661&id=5700921124566938&widgetName=sp_btf,"R$ 37,40"
+O terceiro gêmeo,Ken Follett,https://m.media-amazon.com/images/I/81HGFYD5iRL._AC_UY218_.jpg,www.amazon.com.br/gp/slredirect/picassoRedirect.html/ref=pa_sp_btf_stripbooks_sr_pg2_1?ie=UTF8&adId=A09566852JFRDYO3IA6UI&url=%2Fterceiro-g%25C3%25AAmeo-Ken-Follett%2Fdp%2F6555652063%2Fref%3Dsr_1_38_sspa%3F__mk_pt_BR%3D%253Fref%253Dsr_pg_2%26keywords%3Ddan%2Bbrown%26qid%3D1638805661%26s%3Dbooks%26sr%3D1-38-spons%26psc%3D1&qualifier=1638805661&id=5700921124566938&widgetName=sp_btf,"R$ 36,60"

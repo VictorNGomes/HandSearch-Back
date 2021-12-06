@@ -1,226 +1,43 @@
-Titulo,Autor,Preco
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Baseado no Livro de Dan Brown
-    ","R$ 4,00"
-"
-      Desvendando o Inferno
-    ","
-      Dan Brown
-    ","R$ 9,90"
-"
-      Ponto de Impacto P
-    ","
-      Dan Brown
-    ","R$ 10,00"
-"
-      O Código da Vinci P
-    ","
-      Dan Brown
-    ","R$ 12,00"
-"
-      O Código da Vinci P
-    ","
-      Dan Brown
-    ","R$ 13,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      O Caderno de Viagens de o Codigo da Vinc...
-    ","
-      Dan Brown
-    ","R$ 14,00"
-"
-      DESVENDANDO INFERNO - O GUIA ESSENCIAL P...
-    ","
-      MICHAEL HAAG
-    ","R$ 15,00"
-"
-      Inferno ( Letra Grande)
-    ","
-      Dan Brown
-    ","R$ 15,00"
-"
-      Homem por trás de o código da vinci, uma...
-    ","
-      Lisa Rogak
-    ","R$ 15,00"
-"
-      The los Symbol
-    ","
-      Dan Brown
-    ","R$ 16,00"
-"
-      Inferno   - Nao e Pocket
-    ","
-      Dan Brown
-    ","R$ 19,35"
-"
-      A Filosofia de o Símbolo Perdido - Guia ...
-    ","
-      Thomas R. Beyer
-    ","R$ 20,00"
-"
-      Os Segredos de o Símbolo Perdido /// Dan...
-    ","
-      Dan Burstein e Arne de Keijzer
-    ","R$ 20,00"
-"
-      Caderno de Viagens do Codigo da Vinci
-    ","
-      Dan Brawn
-    ","R$ 20,00"
-"
-      O Codigo da Vinci
-    ","
-      Dan Brown 229
-    ","R$ 21,90"
-"
-      Inferno: o Maior Desafio de Robert Langd...
-    ","
-      Dan Brown
-    ","R$ 23,00"
-"
-      Fortaleza Digital (não é Pocket)
-    ","
-      Dan Brown
-    ","R$ 24,00"
-"
-      Fortaleza Digital  - Nao e Pocket
-    ","
-      Dan Brown
-    ","R$ 24,19"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      SIMBOLO PERDIDO DE DAN BROW,O
-    ","
-      Carmine, Alex
-    ","R$ 25,14"
-"
-      Inferno: o Maior Desafio de Robert Langd...
-    ","
-      Dan Brown
-    ","R$ 25,99"
-"
-      Inferno F. Simples
-    ","
-      Dan Brown
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Inferno (Robert Langdon)
-    ","
-      Brown, Dan
-    ","R$ 29,90"
-"
-      Ponto de Impacto
-    ","
-      Dan Brown 690
-    ","R$ 29,90"
-"
-      Anjos e Demônios - Capa do Filme
-    ","
-      Dan Brown; Maria Luiza Newland...
-    ","R$ 35,00"
-"
-      Origem (novo)
-    ","
-      Dan Brown
-    ","R$ 35,00"
-"
-      ORIGEM DAN BROWN
-    ","
-      VÁRIOS AUTORES
-    ","R$ 35,06"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
-"
-      Sinfonia Dos Animais, A
-    ","
-      Dan Brown
-    ","R$ 37,14"
+Titulo,Autor,ImgUrl,SiteUrl,Preco
+      O Caderno de Viagens de o Codigo da Vinc...    ,      Baseado no Livro de Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_b9aed24e5395b10c32efbbff07f9b7380a856edc.jpg,https://www.estantevirtual.com.br/sylviajones/baseado-no-livro-de-dan-brown-o-caderno-de-viagens-de-o-codigo-da-vinci-2652601600?show_suggestion=0,"R$ 4,00"
+      Desvendando o Inferno    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_9aaf1d53558ab464c9fc0d60793d1118de03a177.jpg,https://www.estantevirtual.com.br/sebobooksonline/dan-brown-desvendando-o-inferno-385237421?show_suggestion=0,"R$ 9,90"
+      Ponto de Impacto P    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_2e17c9000837123c1fa4f463d55e1a456ed3fb62.png,https://www.estantevirtual.com.br/cia-do-livro/dan-brown-ponto-de-impacto-p-2975459686?show_suggestion=0,"R$ 10,00"
+      O Código da Vinci P    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_abadb6fb03adcd9a07e2538aff7816434b4e2972.png,https://www.estantevirtual.com.br/cia-do-livro/dan-brown-o-codigo-da-vinci-p-2975460424?show_suggestion=0,"R$ 12,00"
+      O Código da Vinci P    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_1d664e4d95f1c37a542577b65b8eee0520d3e764.png,https://www.estantevirtual.com.br/cia-do-livro/dan-brown-o-codigo-da-vinci-p-2985553219?show_suggestion=0,"R$ 13,00"
+      O Caderno de Viagens de o Codigo da Vinc...    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_794acaf8eb31aa481ce151380630c15aa3554edd.jpg,https://www.estantevirtual.com.br/luklivros/dan-brown-o-caderno-de-viagens-de-o-codigo-da-vinci-novo--2377047032?show_suggestion=0,"R$ 14,00"
+      O Caderno de Viagens de o Codigo da Vinc...    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_794acaf8eb31aa481ce151380630c15aa3554edd.jpg,https://www.estantevirtual.com.br/luklivros/dan-brown-o-caderno-de-viagens-de-o-codigo-da-vinci-novo--2377047035?show_suggestion=0,"R$ 14,00"
+      O Caderno de Viagens de o Codigo da Vinc...    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_794acaf8eb31aa481ce151380630c15aa3554edd.jpg,https://www.estantevirtual.com.br/luklivros/dan-brown-o-caderno-de-viagens-de-o-codigo-da-vinci-novo--2377047037?show_suggestion=0,"R$ 14,00"
+      O Caderno de Viagens de o Codigo da Vinc...    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_794acaf8eb31aa481ce151380630c15aa3554edd.jpg,https://www.estantevirtual.com.br/luklivros/dan-brown-o-caderno-de-viagens-de-o-codigo-da-vinci-novo--2377047041?show_suggestion=0,"R$ 14,00"
+      O Caderno de Viagens de o Codigo da Vinc...    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_794acaf8eb31aa481ce151380630c15aa3554edd.jpg,https://www.estantevirtual.com.br/luklivros/dan-brown-o-caderno-de-viagens-de-o-codigo-da-vinci-novo--2377047038?show_suggestion=0,"R$ 14,00"
+      DESVENDANDO INFERNO - O GUIA ESSENCIAL P...    ,      MICHAEL HAAG    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/livro_sem_capa_120814.png,https://www.estantevirtual.com.br/sebodomarcao/michael-haag-desvendando-inferno-o-guia-essencial-para-os-mitos-e-misterios-de-inferno-de-dan-brown-novo-3040855169?show_suggestion=0,"R$ 15,00"
+      Inferno ( Letra Grande)    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_a11f755e0b062c398dbe3deb213781641b1d2bad.jpg,https://www.estantevirtual.com.br/paolalivros/dan-brown-inferno-letra-grande--2769753123?show_suggestion=0,"R$ 15,00"
+      Inferno ( Letra Grande)    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_a11f755e0b062c398dbe3deb213781641b1d2bad.jpg,https://www.estantevirtual.com.br/paolalivros/dan-brown-inferno-letra-grande--2769753123?show_suggestion=0,"R$ 15,00"
+      The los Symbol    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_c28ca8feccf7702583fbf266bbcf1bbfca756bbf.jpg,https://www.estantevirtual.com.br/centelhaculturallivros/dan-brown-the-los-symbol-2311377655?show_suggestion=0,"R$ 16,00"
+      Inferno   - Nao e Pocket    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_e3dcce083759f024e743bd8fe77adc20e3c40649.jpg,https://www.estantevirtual.com.br/slp2628920227/dan-brown-inferno-nao-e-pocket-998495754?show_suggestion=0,"R$ 19,35"
+      Caderno de Viagens do Codigo da Vinci    ,      Dan Brawn    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_97fab56466a2b8527bff5fd2412c6ebf6662899e.jpg,https://www.estantevirtual.com.br/solariolivraria/dan-brawn-caderno-de-viagens-do-codigo-da-vinci-246508055?show_suggestion=0,"R$ 20,00"
+      Inferno: o Maior Desafio de Robert Langd...    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_edbc892ffae005f5d9606946c7d3609b31697542.jpg,https://www.estantevirtual.com.br/vialeitura/dan-brown-inferno-o-maior-desafio-de-robert-langdon-1760459692?show_suggestion=0,"R$ 23,00"
+      Fortaleza Digital (não é Pocket)    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_fb4656bfd812cd65f6fe2398e063d8e8cb4b6eef.jpg,https://www.estantevirtual.com.br/sebo-economico-livros/dan-brown-fortaleza-digital-nao-e-pocket--2994865005?show_suggestion=0,"R$ 24,00"
+      Fortaleza Digital  - Nao e Pocket    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_eb126ebb8170ec2a448fb50abd90da73d36b3497.jpg,https://www.estantevirtual.com.br/slp2628920227/dan-brown-fortaleza-digital-nao-e-pocket-998495715?show_suggestion=0,"R$ 24,19"
+"      SIMBOLO PERDIDO DE DAN BROW,O    ","      Carmine, Alex    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_06b19c1a81d08262d4b8649b4534a361.jpg,https://www.estantevirtual.com.br/wtrlivros/carmine-alex-simbolo-perdido-de-dan-brow-o-3016413647?show_suggestion=0,"R$ 25,14"
+"      SIMBOLO PERDIDO DE DAN BROW,O    ","      Carmine, Alex    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_06b19c1a81d08262d4b8649b4534a361.jpg,https://www.estantevirtual.com.br/wtrlivros/carmine-alex-simbolo-perdido-de-dan-brow-o-3016413651?show_suggestion=0,"R$ 25,14"
+"      SIMBOLO PERDIDO DE DAN BROW,O    ","      Carmine, Alex    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_06b19c1a81d08262d4b8649b4534a361.jpg,https://www.estantevirtual.com.br/wtrlivros/carmine-alex-simbolo-perdido-de-dan-brow-o-3016413656?show_suggestion=0,"R$ 25,14"
+"      SIMBOLO PERDIDO DE DAN BROW,O    ","      Carmine, Alex    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_06b19c1a81d08262d4b8649b4534a361.jpg,https://www.estantevirtual.com.br/wtrlivros/carmine-alex-simbolo-perdido-de-dan-brow-o-3016413653?show_suggestion=0,"R$ 25,14"
+"      SIMBOLO PERDIDO DE DAN BROW,O    ","      Carmine, Alex    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_06b19c1a81d08262d4b8649b4534a361.jpg,https://www.estantevirtual.com.br/wtrlivros/carmine-alex-simbolo-perdido-de-dan-brow-o-3016413649?show_suggestion=0,"R$ 25,14"
+      Inferno: o Maior Desafio de Robert Langd...    ,      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9788580416299.jpg,https://www.estantevirtual.com.br/oba-livros-lidos/dan-brown-inferno-o-maior-desafio-de-robert-langdon-a-ultima-esperanca-da-human-2952087876?show_suggestion=0,"R$ 25,99"
+      Inferno F. Simples    ,      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9788580413090-dan-brown-inferno-2925700357.jpg,https://www.estantevirtual.com.br/bancadathais/dan-brown-inferno-f-simples-2767250387?show_suggestion=0,"R$ 29,90"
+      Inferno (Robert Langdon)    ,"      Brown, Dan    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_331f4dc58f2f99fd80297bf88a8d5ae4.jpg,https://www.estantevirtual.com.br/livrariaeureka/brown-dan-inferno-robert-langdon--2732172888?show_suggestion=0,"R$ 29,90"
+      Inferno (Robert Langdon)    ,"      Brown, Dan    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_331f4dc58f2f99fd80297bf88a8d5ae4.jpg,https://www.estantevirtual.com.br/livrariaeureka/brown-dan-inferno-robert-langdon--2732172886?show_suggestion=0,"R$ 29,90"
+      Inferno (Robert Langdon)    ,"      Brown, Dan    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_331f4dc58f2f99fd80297bf88a8d5ae4.jpg,https://www.estantevirtual.com.br/livrariaeureka/brown-dan-inferno-robert-langdon--2732172885?show_suggestion=0,"R$ 29,90"
+      Inferno (Robert Langdon)    ,"      Brown, Dan    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/mp_331f4dc58f2f99fd80297bf88a8d5ae4.jpg,https://www.estantevirtual.com.br/livrariaeureka/brown-dan-inferno-robert-langdon--2732172884?show_suggestion=0,"R$ 29,90"
+      Anjos e Demônios - Capa do Filme    ,      Dan Brown; Maria Luiza Newland...    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_32fffc4a27493828bf0dc2bedf599664e324eb2e.jpg,https://www.estantevirtual.com.br/membooks/dan-brown-maria-luiza-newlands-anjos-e-demonios-capa-do-filme-2846713499?show_suggestion=0,"R$ 35,00"
+"      Sinfonia Dos Animais, A    ",      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9786555650105-dan-brown-sinfonia-dos-animais-1182273160.jpg,https://www.estantevirtual.com.br/livrariadosvovos/dan-brown-sinfonia-dos-animais-a-3034220371?show_suggestion=0,"R$ 37,14"
+"      Sinfonia Dos Animais, A    ",      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9786555650105-dan-brown-sinfonia-dos-animais-1182273160.jpg,https://www.estantevirtual.com.br/livrariadosvovos/dan-brown-sinfonia-dos-animais-a-3034198537?show_suggestion=0,"R$ 37,14"
+"      Sinfonia Dos Animais, A    ",      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9786555650105-dan-brown-sinfonia-dos-animais-1182273160.jpg,https://www.estantevirtual.com.br/livrariadosvovos/dan-brown-sinfonia-dos-animais-a-3034179424?show_suggestion=0,"R$ 37,14"
+"      Sinfonia Dos Animais, A    ",      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9786555650105-dan-brown-sinfonia-dos-animais-1182273160.jpg,https://www.estantevirtual.com.br/livrariadosvovos/dan-brown-sinfonia-dos-animais-a-3034208600?show_suggestion=0,"R$ 37,14"
+"      Sinfonia Dos Animais, A    ",      Dan Brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9786555650105-dan-brown-sinfonia-dos-animais-1182273160.jpg,https://www.estantevirtual.com.br/livrariadosvovos/dan-brown-sinfonia-dos-animais-a-3034215093?show_suggestion=0,"R$ 37,14"
+"      CODIGO DA VINCI, O - POP CHIC - ARQUEIRO    ","      BROWN, DAN    ",https://d1pkzhm5uq4mnt.cloudfront.net/imagens/livro_sem_capa_120814.png,https://www.estantevirtual.com.br/livruz/brown-dan-codigo-da-vinci-o-pop-chic-arqueiro-3041066768?show_suggestion=0,"R$ 37,91"
+      Inferna    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_25a062cfdaee556cd1899f96e0089ab57d849dbf.jpg,https://www.estantevirtual.com.br/livrosecia596/dan-brown-inferna-877787089?show_suggestion=0,"R$ 38,00"
+      o código da vinci  edição especial para ...    ,      dan brown    ,https://5934488p.ha.azioncdn.net/capas-livros/9788580416251-dan-brown-o-codigo-da-vinci-3976013343.jpg,https://www.estantevirtual.com.br/livrarialivrovivo/dan-brown-o-codigo-da-vinci-edicao-especial-para-jovens-robert-langdon--3025691318?show_suggestion=0,"R$ 39,50"
+      O Código da Vinci - Pop Chic    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_3c604f4c2330f9071ddca9a3d083cb2959288739.png,https://www.estantevirtual.com.br/membooks/dan-brown-o-codigo-da-vinci-pop-chic-2897338487?show_suggestion=0,"R$ 39,90"
+      O Código da Vinci - Pop Chic    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_3c604f4c2330f9071ddca9a3d083cb2959288739.png,https://www.estantevirtual.com.br/membooks/dan-brown-o-codigo-da-vinci-pop-chic-2897338488?show_suggestion=0,"R$ 39,90"
+      O Código da Vinci - Pop Chic    ,      Dan Brown    ,https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_3c604f4c2330f9071ddca9a3d083cb2959288739.png,https://www.estantevirtual.com.br/membooks/dan-brown-o-codigo-da-vinci-pop-chic-2897338486?show_suggestion=0,"R$ 39,90"
