@@ -12,7 +12,7 @@ from lojas.travessa import Travessa
 
 app = Flask(__name__)
 
-@app.get('/amazon/<name>')
+@app.route('/amazon/<name>', methods=['GET', 'POST'])
 def search(name):
     amazon = Amazon()
     url = escape(name)
@@ -20,7 +20,7 @@ def search(name):
     livros = amazon.getBooks()
     return livros
 
-@app.get('/estantevirtual/<name>')
+@app.route('/estantevirtual/<name>',methods=['GET', 'POST'])
 def searchEstante(name):
     e = EstanteVirtual()
     url = escape(name)
@@ -28,7 +28,7 @@ def searchEstante(name):
     livros = e.getBooks()
     return livros
 
-@app.get('/cultura/<name>')
+@app.route('/cultura/<name>',methods=['GET', 'POST'])
 def searchCult(name):
     c = Cultura()
     url = escape(name)
@@ -36,7 +36,7 @@ def searchCult(name):
     livros = c.getBooks()
     return livros
 
-@app.get('/saraiva/<name>')
+@app.route('/saraiva/<name>',methods=['GET', 'POST'])
 def searchSaraiva(name):
     s = Saraiva()
     url = escape(name)
@@ -44,7 +44,7 @@ def searchSaraiva(name):
     livros = s.getBooks()
     return livros
 
-@app.get('/travessa/<name>')
+@app.route('/travessa/<name>',methods=['GET', 'POST'])
 def searchTravessa(name):
     t = Travessa()
     url = escape(name)
@@ -52,9 +52,10 @@ def searchTravessa(name):
     livros = t.getBooks()
     return livros
 
-app.run()
 
 
+if __name__ == "__main__":
+    app.run(debug = True)
 
 
 
