@@ -47,8 +47,8 @@ class Amazon():
             siteUrl += d.find('a', attrs={'class': 'a-link-normal s-no-outline'})['href']
             
 
-            livro = Livro(name,author,price)
-            self.livros.append(livro)
+            #livro = Livro(name,author,price)
+            #self.livros.append(livro)
 
 
             self.dictLivros['Livros'].append( {
