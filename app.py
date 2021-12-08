@@ -9,10 +9,13 @@ from lojas.estantevirtual import EstanteVirtual
 from lojas.cultura import *
 from lojas.saraiva import Saraiva
 from lojas.travessa import Travessa
+from flask_cors import CORS, cross_origin
+
 
 app = Flask(__name__)
 
 @app.route('/amazon/<name>', methods=['GET', 'POST'])
+@cross_origin()
 def search(name):
     amazon = Amazon()
     url = escape(name)
@@ -21,6 +24,7 @@ def search(name):
     return livros
 
 @app.route('/estantevirtual/<name>',methods=['GET', 'POST'])
+@cross_origin()
 def searchEstante(name):
     e = EstanteVirtual()
     url = escape(name)
@@ -29,6 +33,7 @@ def searchEstante(name):
     return livros
 
 @app.route('/cultura/<name>',methods=['GET', 'POST'])
+@cross_origin()
 def searchCult(name):
     c = Cultura()
     url = escape(name)
@@ -37,6 +42,7 @@ def searchCult(name):
     return livros
 
 @app.route('/saraiva/<name>',methods=['GET', 'POST'])
+@cross_origin()
 def searchSaraiva(name):
     s = Saraiva()
     url = escape(name)
@@ -45,6 +51,7 @@ def searchSaraiva(name):
     return livros
 
 @app.route('/travessa/<name>',methods=['GET', 'POST'])
+@cross_origin()
 def searchTravessa(name):
     t = Travessa()
     url = escape(name)
