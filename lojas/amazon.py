@@ -43,7 +43,7 @@ class Amazon():
             price = d.find('span', attrs={'class':'a-offscreen'})
             imgUrl = d.find('img', attrs={'class': 's-image'})['src']
         
-            siteUrl = "www.amazon.com.br"
+            siteUrl = "https://www.amazon.com.br"
             siteUrl += d.find('a', attrs={'class': 'a-link-normal s-no-outline'})['href']
             
 
