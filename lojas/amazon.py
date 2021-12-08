@@ -1,8 +1,8 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from livro import Livro
-
+#from livro import Livro
+#from lojas.loja import *
 
 
 class Amazon():
@@ -41,7 +41,10 @@ class Amazon():
                 author = author[1]
 
             price = d.find('span', attrs={'class':'a-offscreen'})
-            #link = d.find('span', attrs = {'class':'a-link-normal a-text-normal'})
+            imgUrl = d.find('img', attrs={'class': 's-image'})['src']
+        
+            siteUrl = "www.amazon.com.br"
+            siteUrl += d.find('a', attrs={'class': 'a-link-normal s-no-outline'})['href']
             
 
             livro = Livro(name,author,price)
@@ -53,8 +56,8 @@ class Amazon():
                     'title': name.text,
                     'author': author.text,
                     'price': price.text,
-                    'link': None,
-                    'image':None
+                    'link': siteUrl,
+                    'image':imgUrl
                     })
 
             id = id+1
